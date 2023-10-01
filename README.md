@@ -2,7 +2,7 @@
 
 ## Что нужно сделать
 
-![workflow]'https://github.com/artemis1359/kittygram_final/actions/workflows/main.yml/badge.svg'
+![workflow](https://github.com/artemis1359/kittygram_final/actions/workflows/main.yml/badge.svg)
 
 Настроить запуск проекта Kittygram в контейнерах и CI/CD с помощью GitHub Actions
 
